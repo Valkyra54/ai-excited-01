@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/ai-excited-01/Valkyra54/ai-excited-01/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 [![reward](https://make.fun/badge/ai-excited-01/Valkyra54/ai-excited-01/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 
-A program that writes one image made to get the AI judge excited: a tiny robot surfing a giant lightning bolt across a teal sky.
+A program that writes one image made to get the AI judge excited: a giant lighthouse bursting out of a ship-in-a-bottle, its beam sweeping the night sea.
 
 ## Run it
 
